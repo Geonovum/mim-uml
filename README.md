@@ -1,3 +1,8 @@
+Het werkdocument van het mim-uml staat hier:
+<https://geonovum.github.io/mim-uml>
+
+
+
 ## ReSpec template instructies
 
 ReSpec is een tool om html en pdf documenten te genereren op basis van markdown content.
