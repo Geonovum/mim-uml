@@ -6,7 +6,7 @@ Het resulterende profiel is conform MIM en conform deze modelleertaal.
 
 ## Inleiding
 
-Dit hoofdstuk beschrijft hoe je met MIM (doc link) een informatiemodel maakt in UML.
+Dit hoofdstuk beschrijft hoe je met MIM (doc link) een informatiemodel maakt in UML. MIM en UML hebben beide een eigen metamodel. Aan beide kan ook niets worden veranderd. Voor de toepassing van MIM met de modelleertaal UML gaat het om een mapping van het MIM metamodel op het metamodel van UML. Dat resulteert in de creatie van UML-stereotypen als extensie op UML-metaklassen. De MIM modelelementen worden daarmee herkenbaar in UML en gespecificeerd met de metagegevens die in MIM gedefinieerd zijn. Een aantal daarvan kunnen gemapped worden op UML metagegevens, zoals bijvoorbeeld 'naam' en cardinaliteit, andere worden als tagged value toegevoegd.
 
 ## Structuur metamodel in UML
 

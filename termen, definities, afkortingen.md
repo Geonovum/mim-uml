@@ -14,3 +14,8 @@ We gebruiken een <a>fiets</a> om te fietsen.
 </p>
 
 ## Afkortingen
+
+|                   |                                                                                                                                            |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MIM     | Metamodel Informatiemodellering        |
+| UML      | Unified Modeling Language         |

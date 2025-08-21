@@ -56,7 +56,7 @@ let respecConfig = {
   authors:
     [
       {
-        name: "voornaam achternaam",
+        name: "Paul Janssen",
         company: "Geonovum",
         companyURL: "https://www.geonovum.nl",
       }
@@ -85,6 +85,15 @@ let respecConfig = {
       status: "Definitief",
       publisher: "Geonovum",
       date: "2024-06-13"
+    },
+	
+	UML: {
+      id: "UML",
+      title: "UML®  —  Unified Modeling Language",
+      href: "https://www.omg.org/spec/UML/",
+      status: "Definitief",
+      publisher: "OMG",
+      date: "2017-12"
     }
   }
 };
