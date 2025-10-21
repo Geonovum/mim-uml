@@ -1,4 +1,4 @@
-## Leeswijzer: Hoe lees je een MIM-UML-klassendiagram?
+## UML leeswijzer: Hoe lees je een MIM-UML-klassendiagram?
 
 UML staat voor Unified Modelling Language en is een formele modelleertaal om objectgeoriënteerde analyses, ontwerpen en specificaties voor een informatiesysteem te kunnen maken. UML is een visuele modelleertaal om met behulp van diagrammen verschillende onderdelen van een specificatie te beschrijven. Het UML-klassendiagram is daarvan het diagramtype om de structuur en inhoud van informatie te modelleren: het informatiemodel.
 
